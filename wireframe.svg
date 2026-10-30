@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1020" viewBox="0 0 1500 1020" role="img" aria-labelledby="title desc">
+  <title id="title">Damien Alderete portfolio site wireframe plan</title>
+  <desc id="desc">Three simple page wireframes for Home, Projects, and About and Contact, with a proposed color palette and font choices.</desc>
+  <rect width="1500" height="1020" fill="#f5f2ec"/>
+  <text x="750" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#172d3d">Portfolio Site Plan — Damien Alderete</text>
+  <text x="750" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#435563">Rough layout sketch • three pages • content shown as labeled blocks</text>
+
+  <g font-family="Arial, sans-serif" fill="#172d3d">
+    <g transform="translate(55 125)">
+      <text x="210" y="0" text-anchor="middle" font-size="23" font-weight="700">HOME</text>
+      <rect x="0" y="22" width="420" height="630" rx="12" fill="#fff" stroke="#6b7d87" stroke-width="2"/>
+      <rect x="18" y="40" width="384" height="90" rx="6" fill="#d9e7ee" stroke="#66808e"/>
+      <text x="210" y="77" text-anchor="middle" font-size="18" font-weight="700">HEADER</text><text x="210" y="104" text-anchor="middle" font-size="14">Name + short introduction</text>
+      <rect x="18" y="145" width="384" height="56" rx="6" fill="#e9e2d5" stroke="#8c806c"/>
+      <text x="210" y="180" text-anchor="middle" font-size="16" font-weight="700">NAV • Home | Projects | About</text>
+      <rect x="18" y="216" width="384" height="173" rx="6" fill="#f7f7f4" stroke="#8b979d"/>
+      <text x="210" y="248" text-anchor="middle" font-size="18" font-weight="700">WELCOME SECTION</text><text x="210" y="282" text-anchor="middle" font-size="14">Intro paragraph</text><text x="210" y="310" text-anchor="middle" font-size="14">What I’m learning (h3)</text><text x="210" y="339" text-anchor="middle" font-size="14">Short paragraph</text>
+      <rect x="18" y="404" width="384" height="155" rx="6" fill="#f7f7f4" stroke="#8b979d"/>
+      <text x="210" y="437" text-anchor="middle" font-size="18" font-weight="700">INTERESTS SECTION</text><text x="210" y="473" text-anchor="middle" font-size="14">Bulleted list of interests</text><text x="210" y="501" text-anchor="middle" font-size="14">Technology • Music • Projects</text>
+      <rect x="18" y="574" width="384" height="54" rx="6" fill="#d9e7ee" stroke="#66808e"/>
+      <text x="210" y="608" text-anchor="middle" font-size="15">FOOTER • copyright</text>
+    </g>
+    <g transform="translate(540 125)">
+      <text x="210" y="0" text-anchor="middle" font-size="23" font-weight="700">PROJECTS / WORK</text>
+      <rect x="0" y="22" width="420" height="630" rx="12" fill="#fff" stroke="#6b7d87" stroke-width="2"/>
+      <rect x="18" y="40" width="384" height="90" rx="6" fill="#d9e7ee" stroke="#66808e"/>
+      <text x="210" y="77" text-anchor="middle" font-size="18" font-weight="700">HEADER</text><text x="210" y="104" text-anchor="middle" font-size="14">Page title + short intro</text>
+      <rect x="18" y="145" width="384" height="56" rx="6" fill="#e9e2d5" stroke="#8c806c"/>
+      <text x="210" y="180" text-anchor="middle" font-size="16" font-weight="700">NAV • Home | Projects | About</text>
+      <rect x="18" y="216" width="384" height="266" rx="6" fill="#f7f7f4" stroke="#8b979d"/>
+      <text x="210" y="249" text-anchor="middle" font-size="18" font-weight="700">WEB DEVELOPMENT WORK</text>
+      <rect x="38" y="271" width="344" height="76" rx="5" fill="#fff" stroke="#a3adb1"/><text x="210" y="302" text-anchor="middle" font-size="15" font-weight="700">Project card 1</text><text x="210" y="327" text-anchor="middle" font-size="13">Name + description</text>
+      <rect x="38" y="360" width="344" height="76" rx="5" fill="#fff" stroke="#a3adb1"/><text x="210" y="391" text-anchor="middle" font-size="15" font-weight="700">Project card 2</text><text x="210" y="416" text-anchor="middle" font-size="13">Name + description</text>
+      <rect x="18" y="497" width="384" height="62" rx="6" fill="#f7f7f4" stroke="#8b979d"/><text x="210" y="535" text-anchor="middle" font-size="16" font-weight="700">CREATIVE WORK • music</text>
+      <rect x="18" y="574" width="384" height="54" rx="6" fill="#d9e7ee" stroke="#66808e"/><text x="210" y="608" text-anchor="middle" font-size="15">FOOTER • copyright</text>
+    </g>
+    <g transform="translate(1025 125)">
+      <text x="210" y="0" text-anchor="middle" font-size="23" font-weight="700">ABOUT / CONTACT</text>
+      <rect x="0" y="22" width="420" height="630" rx="12" fill="#fff" stroke="#6b7d87" stroke-width="2"/>
+      <rect x="18" y="40" width="384" height="90" rx="6" fill="#d9e7ee" stroke="#66808e"/>
+      <text x="210" y="77" text-anchor="middle" font-size="18" font-weight="700">HEADER</text><text x="210" y="104" text-anchor="middle" font-size="14">Page title + short intro</text>
+      <rect x="18" y="145" width="384" height="56" rx="6" fill="#e9e2d5" stroke="#8c806c"/>
+      <text x="210" y="180" text-anchor="middle" font-size="16" font-weight="700">NAV • Home | Projects | About</text>
+      <rect x="18" y="216" width="384" height="207" rx="6" fill="#f7f7f4" stroke="#8b979d"/>
+      <text x="210" y="249" text-anchor="middle" font-size="18" font-weight="700">ABOUT ME</text><text x="210" y="284" text-anchor="middle" font-size="14">Short biography</text><text x="210" y="319" text-anchor="middle" font-size="14">Interests (h3)</text><text x="210" y="350" text-anchor="middle" font-size="14">Bulleted interests</text>
+      <rect x="18" y="438" width="384" height="121" rx="6" fill="#f7f7f4" stroke="#8b979d"/>
+      <text x="210" y="472" text-anchor="middle" font-size="18" font-weight="700">CONTACT</text><text x="210" y="510" text-anchor="middle" font-size="14">Contact information placeholder</text>
+      <rect x="18" y="574" width="384" height="54" rx="6" fill="#d9e7ee" stroke="#66808e"/><text x="210" y="608" text-anchor="middle" font-size="15">FOOTER • copyright</text>
+    </g>
+  </g>
+  <rect x="55" y="815" width="1390" height="150" rx="12" fill="#fff" stroke="#6b7d87" stroke-width="2"/>
+  <text x="85" y="855" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#172d3d">Design notes</text>
+  <text x="85" y="893" font-family="Arial, sans-serif" font-size="17" fill="#263d4b">Color palette: deep navy (#172D3D), soft blue (#D9E7EE), warm cream (#F5F2EC), white (#FFFFFF).</text>
+  <text x="85" y="927" font-family="Arial, sans-serif" font-size="17" fill="#263d4b">Font choices: Arial for headings and body text; a clean, readable sans-serif style throughout.</text>
+</svg>
